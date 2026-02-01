@@ -30,5 +30,3 @@ After Pop: [10, 20]
 Queue: [10, 20, 30]
 After Dequeue: [20, 30]
 
-
-12. EXERCISE BY I
